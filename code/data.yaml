@@ -1,0 +1,6 @@
+path: "/home/saksham/samsad/mtech-project/deep-learning/Cricket-Ball-Trajectory-Prediction/dataset/edge_fleet/25_nov_2025/vid2/"
+train: train/images
+val: valid/images
+
+names: 
+  0: cricketBall
